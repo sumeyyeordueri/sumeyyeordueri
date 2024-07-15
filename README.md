@@ -1,9 +1,11 @@
-![MasterHead](https://www.analyticsinsight.net/wp-content/uploads/2020/08/Data-Science-5.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Sümeyye</h1>
+
+
+![MasterHead](https://images.squarespace-cdn.com/content/v1/63d40fe2cbd65e16cb8098b6/becc30d2-d0b1-4323-84f8-0d7defcc61f3/Screen%2BShot%2B2023-08-17%2Bat%2B3.09.40%2BPM.png)
 <h3 align="center">I am interested in data science, data engineering, machine learning, and web development.</h3>
 
-- 📫 How to reach me **sumeyyeordueri84@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
