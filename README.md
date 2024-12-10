@@ -21,6 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumeyyeordueri&show_icons=true&locale=en" alt="sumeyyeordueri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeyyeordueri&" alt="sumeyyeordueri" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumeyyeordueri&theme=radical)](https://git.io/streak-stats)
+
+<p align="center">
 
 ![snake gif](https://github.com/sumeyyeordueri/sumeyyeordueri/blob/output/github-contribution-grid-snake.gif)
